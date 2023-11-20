@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1627218753 source:d:\½×¤å\acoord\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<vector>
+	<queue>
+	<deque>
+	<algorithm>
+	<sstream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1584314121 source:d:\½×¤å\acoord - data gen\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<vector>
+	<queue>
+	<deque>
+	<sstream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<map>
+	<cmath>
+	<random>
+

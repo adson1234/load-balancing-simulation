@@ -1,0 +1,533 @@
+run=
+1
+OPT=
+339.000000
+best_NE=
+339.000000
+1 2 3 4 5 6 7 8 
+worst_NE=
+528.000000
+1 2 3 5 6 7 8 4 
+POS=
+1.000000
+
+POA=
+1.557522
+AVG=
+419.433333
+VAR=
+6744.557502
+makespan= 339 20160 times
+makespan= 476 6720 times
+makespan= 485 3360 times
+makespan= 491 672 times
+makespan= 492 1344 times
+makespan= 528 8064 times
+run=
+2
+OPT=
+433.000000
+best_NE=
+433.000000
+1 2 3 4 5 6 7 8 
+worst_NE=
+650.000000
+1 3 4 5 6 7 8 2 
+POS=
+1.000000
+
+POA=
+1.501155
+AVG=
+527.541667
+VAR=
+9245.393465
+makespan= 433 18816 times
+makespan= 484 1008 times
+makespan= 523 336 times
+makespan= 557 6720 times
+makespan= 646 3360 times
+makespan= 647 2016 times
+makespan= 650 8064 times
+run=
+3
+OPT=
+253.000000
+best_NE=
+253.000000
+1 2 3 4 5 6 7 8 
+worst_NE=
+438.000000
+2 3 4 7 8 5 6 1 
+POS=
+1.000000
+
+POA=
+1.731225
+AVG=
+288.956944
+VAR=
+3970.782834
+makespan= 253 25032 times
+makespan= 269 840 times
+makespan= 282 7056 times
+makespan= 403 672 times
+makespan= 405 1512 times
+makespan= 424 4424 times
+makespan= 437 448 times
+makespan= 438 336 times
+run=
+4
+OPT=
+252.000000
+best_NE=
+252.000000
+1 2 3 4 6 5 7 8 
+worst_NE=
+356.000000
+1 2 3 4 5 7 6 8 
+POS=
+1.000000
+
+POA=
+1.412698
+AVG=
+303.916667
+VAR=
+2661.082572
+makespan= 252 13440 times
+makespan= 253 6720 times
+makespan= 355 10080 times
+makespan= 356 10080 times
+run=
+5
+OPT=
+422.000000
+best_NE=
+422.000000
+1 2 4 5 3 6 7 8 
+worst_NE=
+637.000000
+1 2 3 5 4 6 7 8 
+POS=
+1.000000
+
+POA=
+1.509479
+AVG=
+452.241270
+VAR=
+4655.739861
+makespan= 422 26880 times
+makespan= 437 6160 times
+makespan= 455 2240 times
+makespan= 598 512 times
+makespan= 621 664 times
+makespan= 637 3864 times
+run=
+6
+OPT=
+321.000000
+best_NE=
+321.000000
+1 2 4 5 3 6 8 7 
+worst_NE=
+397.000000
+1 2 3 4 5 6 7 8 
+POS=
+1.000000
+
+POA=
+1.236760
+AVG=
+347.602778
+VAR=
+707.218998
+makespan= 321 14280 times
+makespan= 338 2352 times
+makespan= 349 15624 times
+makespan= 383 224 times
+makespan= 384 1120 times
+makespan= 397 6720 times
+run=
+7
+OPT=
+353.000000
+best_NE=
+353.000000
+1 2 3 4 5 6 7 8 
+worst_NE=
+353.000000
+1 2 3 4 5 6 7 8 
+POS=
+1.000000
+
+POA=
+1.000000
+AVG=
+353.000000
+VAR=
+0.000000
+makespan= 353 40320 times
+run=
+8
+OPT=
+433.000000
+best_NE=
+433.000000
+1 2 3 4 5 6 7 8 
+worst_NE=
+663.000000
+1 4 3 5 6 7 8 2 
+POS=
+1.000000
+
+POA=
+1.531178
+AVG=
+452.840476
+VAR=
+3046.755807
+makespan= 433 34272 times
+makespan= 468 1344 times
+makespan= 495 336 times
+makespan= 542 896 times
+makespan= 547 1120 times
+makespan= 605 560 times
+makespan= 657 256 times
+makespan= 662 192 times
+makespan= 663 1344 times
+run=
+9
+OPT=
+367.000000
+best_NE=
+367.000000
+1 2 3 5 6 7 8 4 
+worst_NE=
+568.000000
+2 3 4 5 6 7 8 1 
+POS=
+1.000000
+
+POA=
+1.547684
+AVG=
+445.987500
+VAR=
+4966.414899
+makespan= 367 8400 times
+makespan= 369 4032 times
+makespan= 390 1680 times
+makespan= 393 336 times
+makespan= 394 1344 times
+makespan= 408 168 times
+makespan= 409 840 times
+makespan= 431 3360 times
+makespan= 463 3360 times
+makespan= 466 4704 times
+makespan= 504 4704 times
+makespan= 527 2016 times
+makespan= 568 5376 times
+run=
+10
+OPT=
+372.000000
+best_NE=
+372.000000
+2 3 6 5 7 8 1 4 
+worst_NE=
+608.000000
+2 3 4 1 6 7 8 5 
+POS=
+1.000000
+
+POA=
+1.634409
+AVG=
+491.860317
+VAR=
+4351.170613
+makespan= 372 224 times
+makespan= 373 3136 times
+makespan= 383 112 times
+makespan= 408 1392 times
+makespan= 413 112 times
+makespan= 429 3616 times
+makespan= 431 176 times
+makespan= 437 3920 times
+makespan= 442 2192 times
+makespan= 504 14448 times
+makespan= 515 240 times
+makespan= 549 960 times
+makespan= 556 240 times
+makespan= 559 2576 times
+makespan= 580 672 times
+makespan= 585 4816 times
+makespan= 603 1008 times
+makespan= 608 480 times
+run=
+11
+OPT=
+258.000000
+best_NE=
+258.000000
+1 2 3 4 5 6 7 8 
+worst_NE=
+317.000000
+2 3 5 1 6 7 8 4 
+POS=
+1.000000
+
+POA=
+1.228682
+AVG=
+268.250000
+VAR=
+357.045833
+makespan= 258 28056 times
+makespan= 276 5544 times
+makespan= 278 2128 times
+makespan= 317 4592 times
+run=
+12
+OPT=
+342.000000
+best_NE=
+342.000000
+1 2 4 5 3 6 7 8 
+worst_NE=
+548.000000
+1 2 4 6 3 5 7 8 
+POS=
+1.000000
+
+POA=
+1.602339
+AVG=
+386.972222
+VAR=
+3790.116202
+makespan= 342 15120 times
+makespan= 344 5488 times
+makespan= 370 7392 times
+makespan= 403 1064 times
+makespan= 414 2240 times
+makespan= 483 7448 times
+makespan= 542 672 times
+makespan= 548 896 times
+run=
+13
+OPT=
+324.000000
+best_NE=
+324.000000
+2 3 4 5 1 6 7 8 
+worst_NE=
+531.000000
+1 2 3 4 7 6 5 8 
+POS=
+1.000000
+
+POA=
+1.638889
+AVG=
+385.409921
+VAR=
+2708.752426
+makespan= 324 9912 times
+makespan= 369 9912 times
+makespan= 380 897 times
+makespan= 386 608 times
+makespan= 387 1912 times
+makespan= 394 3360 times
+makespan= 396 2912 times
+makespan= 412 159 times
+makespan= 414 1344 times
+makespan= 428 6496 times
+makespan= 486 15 times
+makespan= 502 448 times
+makespan= 518 105 times
+makespan= 531 2240 times
+run=
+14
+OPT=
+370.000000
+best_NE=
+370.000000
+1 2 3 4 5 6 7 8 
+worst_NE=
+677.000000
+1 2 5 4 7 6 3 8 
+POS=
+1.000000
+
+POA=
+1.829730
+AVG=
+467.652778
+VAR=
+3022.285854
+makespan= 370 3616 times
+makespan= 388 510 times
+makespan= 393 557 times
+makespan= 405 325 times
+makespan= 410 357 times
+makespan= 429 147 times
+makespan= 454 1216 times
+makespan= 455 5641 times
+makespan= 460 9576 times
+makespan= 462 18 times
+makespan= 467 462 times
+makespan= 468 10224 times
+makespan= 473 93 times
+makespan= 483 1216 times
+makespan= 497 182 times
+makespan= 506 1360 times
+makespan= 527 400 times
+makespan= 569 3048 times
+makespan= 588 608 times
+makespan= 592 16 times
+makespan= 594 12 times
+makespan= 677 736 times
+run=
+15
+OPT=
+384.000000
+best_NE=
+384.000000
+1 2 3 5 6 7 8 4 
+worst_NE=
+470.000000
+1 2 3 4 5 6 8 7 
+POS=
+1.000000
+
+POA=
+1.223958
+AVG=
+427.333333
+VAR=
+1820.546861
+makespan= 384 6720 times
+makespan= 385 13440 times
+makespan= 470 20160 times
+run=
+16
+OPT=
+297.000000
+best_NE=
+297.000000
+1 2 3 4 5 6 7 8 
+worst_NE=
+341.000000
+1 2 3 4 5 6 8 7 
+POS=
+1.000000
+
+POA=
+1.148148
+AVG=
+309.263889
+VAR=
+259.835238
+makespan= 297 22400 times
+makespan= 314 2800 times
+makespan= 315 8400 times
+makespan= 341 6720 times
+run=
+17
+OPT=
+410.000000
+best_NE=
+410.000000
+1 2 3 4 5 6 7 8 
+worst_NE=
+676.000000
+3 4 5 6 2 1 8 7 
+POS=
+1.000000
+
+POA=
+1.648780
+AVG=
+418.016071
+VAR=
+427.866853
+makespan= 410 18648 times
+makespan= 421 21120 times
+makespan= 464 56 times
+makespan= 522 20 times
+makespan= 554 336 times
+makespan= 676 140 times
+run=
+18
+OPT=
+386.000000
+best_NE=
+386.000000
+1 3 4 5 6 2 7 8 
+worst_NE=
+639.000000
+1 2 3 4 6 5 7 8 
+POS=
+1.000000
+
+POA=
+1.655440
+AVG=
+502.102381
+VAR=
+11802.214925
+makespan= 386 17136 times
+makespan= 417 1008 times
+makespan= 506 336 times
+makespan= 509 1680 times
+makespan= 559 6720 times
+makespan= 590 2400 times
+makespan= 595 960 times
+makespan= 639 10080 times
+run=
+19
+OPT=
+273.000000
+best_NE=
+273.000000
+1 3 4 5 7 8 2 6 
+worst_NE=
+316.000000
+1 2 3 4 5 6 7 8 
+POS=
+1.000000
+
+POA=
+1.157509
+AVG=
+280.883333
+VAR=
+276.837532
+makespan= 273 32928 times
+makespan= 316 7392 times
+run=
+20
+OPT=
+312.000000
+best_NE=
+312.000000
+1 2 3 4 5 6 7 8 
+worst_NE=
+437.000000
+2 3 4 5 7 6 8 1 
+POS=
+1.000000
+
+POA=
+1.400641
+AVG=
+331.066667
+VAR=
+1873.869459
+makespan= 312 33600 times
+makespan= 394 672 times
+makespan= 395 1008 times
+makespan= 437 5040 times
